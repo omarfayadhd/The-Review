@@ -47,6 +47,8 @@
     font-size: 1rem;
     height: 80px;
     max-width: 360px;
+    text-align: justify;
+    
 }
 
 .fade_bottom{

@@ -1,10 +1,12 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lobster&family=Patua+One&family=Rubik:wght@300&family=Sniglet&family=Ubuntu&display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
 
 body{
-font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-family: 'Ubuntu';
 background-color: #111;
 }
