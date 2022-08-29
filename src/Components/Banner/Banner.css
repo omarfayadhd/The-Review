@@ -1,5 +1,4 @@
 .banner{
-    background-image: url('https://www.newsbugz.com/wp-content/uploads/2021/10/Minnal-Murali.jpg');
     background-repeat: no-repeat;
     background-size: cover;    
     height: 448px;
@@ -48,6 +47,7 @@
     height: 80px;
     max-width: 360px;
     text-align: justify;
+    
     
 }
 

@@ -9,4 +9,5 @@
 body{
 font-family: 'Ubuntu';
 background-color: #111;
+overflow: auto;
 }
