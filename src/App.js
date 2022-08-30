@@ -3,7 +3,7 @@ import NavBar from "./Components/NavBar/NavBar";
 import './App.css';
 import Banner from "./Components/Banner/Banner";
 import RowPost from "./Components/RowPost/RowPost";
-import {action, trending,comedy,horror,romance,documentary} from './urls'
+import {action, trending,documentary} from './urls'
 
 
 function App(props) {

@@ -9,7 +9,9 @@
     "axios": "^0.21.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hover-video-player": "^9.7.0",
     "react-scripts": "5.0.1",
+    "react-youtube": "^9.0.3",
     "typeface-ubuntu": "^1.1.13",
     "web-vitals": "^2.1.4"
   },

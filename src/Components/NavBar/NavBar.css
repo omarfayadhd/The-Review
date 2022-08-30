@@ -10,9 +10,11 @@
 }
 
 .logo{
+    
     position: fixed;
+    top: -9px;
     left: 20px;
-    width: 90px;
+    width: 100px;
 }
 
 .avatar{
